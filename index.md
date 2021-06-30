@@ -9,7 +9,7 @@ layout: default
 
 ## The Team
 
-**Project Lead:** Daryl DeFord, Assistant Professor of Data Analytics in the Department of Mathematics and Statistics at Washington State University
+**Project Lead:** [Daryl DeFord](http://www.math.wsu.edu/faculty/ddeford/), Assistant Professor of Data Analytics in the Department of Mathematics and Statistics at Washington State University
 
 **Data Science Leads:** Bernease Herman, Vaughn Iverson
 
