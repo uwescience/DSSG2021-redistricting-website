@@ -9,13 +9,13 @@ layout: default
 
 ## The Team
 
-**Project Lead/s:** Daryl DeFord, Assistant Professor of Data Analytics in the Department of Mathematics and Statistics at Washington State University
+**Project Lead:** Daryl DeFord, Assistant Professor of Data Analytics in the Department of Mathematics and Statistics at Washington State University
 
-**Data Science Lead/s:** Bernease Herman, Vaughn Iverson
+**Data Science Leads:** Bernease Herman, Vaughn Iverson
 
 **DSSG Fellows:** Rowana Ahmed, Katherine Chang, Ryan Goehrung, Michael Souffrant
 
-# Abstract or executive summary
+# Executive summary
 
 Gerrymandering, the drawing of legislative boundaries for improper purposes, is a fundamental threat to democracy. While the history of American gerrymandering extends back 200 years, representing a wide variety of specific aims and harms, recent advances in computational methods and data analysis have exacerbated this problem. However, these same circumstances have also allowed us to develop tools for evaluating proposed maps and detecting outliers. Our work this summer aims to create a better understanding of how these methods can be used for the effective design of new maps.
 
