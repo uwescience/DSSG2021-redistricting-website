@@ -3,9 +3,7 @@ layout: page
 title: References
 ---
 
-### References
-
-#### Gerrychain 
+### Gerrychain 
 
 Gerrychain is a Python package utilized in our work.
 
