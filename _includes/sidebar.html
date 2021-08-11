@@ -22,14 +22,14 @@
       <div class="dropdown-container">
           <a href="{{ '/casestudies' | prepend: site.baseurl }}">Overview</a><br/>
           <a href="{{ '/georgia' | prepend: site.baseurl }}">Georgia</a><br/>
-          <a href="{{ '/colorado' | prepend: site.baseurl }}">Colorado</a>
-          <a href="{{ '/texas' | prepend: site.baseurl }}">Texas</a>
+          <a href="{{ '/colorado' | prepend: site.baseurl }}">Colorado</a><br/>
+          <a href="{{ '/texas' | prepend: site.baseurl }}">Texas</a><br/>
       </div>
       
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/about' | prepend: site.baseurl }}">About</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/glossary' | prepend: site.baseurl }}">Glossary</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/references' | prepend: site.baseurl }}">References</a>
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ 'https://github.com/uwescience/dssg2021-redistricting' | prepend: site.baseurl }}">Github</a>
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="'https://github.com/uwescience/dssg2021-redistricting'">Github</a>
       <script>
 /* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
 var dropdown = document.getElementsByClassName("dropdown-btn");
