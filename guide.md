@@ -1,12 +1,7 @@
 ---
 layout: page
-title: Results
+title: Guide
 ---
-
-**Findings**
-
-What were the outcomes of your analyses?
-What is your interpretation of those findings?
 
 **Deliverables**
 
