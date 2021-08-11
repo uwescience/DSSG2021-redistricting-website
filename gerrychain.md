@@ -1,6 +1,6 @@
 ---
 layout: page
-title: References
+title: GerryChain 
 ---
 
 ### Gerrychain 
@@ -10,7 +10,6 @@ title: References
 
 ### Data and Methods
 
-* [NC Shapefiles](https://github.com/mggg-states/NC-shapefiles)
-* [VA Shapefiles](https://github.com/mggg-states/VA-shapefiles)
-* [PA Shapefiles](https://github.com/mggg-states/PA-shapefiles)
+* [MGGG](https://github.com/mggg-states/)
+* [Redistricting Data Hub](https://redistrictingdatahub.com)
 * [VRA Ensembles](https://github.com/mggg/VRA_ensembles)
