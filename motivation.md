@@ -17,15 +17,23 @@ Truly "neutral" maps that are fair, representative, and unbiased has been a diff
 
 Several states passed crucial reforms to the redistricting process in 2018 in an effort to curb gerrymandering practices. These reforms have expanded the legislative framework that state legislators and independent election commissioners must adhere to while creating new districting plans. An analysis method is required to ensure that the proposed plans are aligned with these legislative reforms. More broadly, objective analysis is needed to ensure proposed plans uphold principles of fairness and democratic representation. Recent computational and statistical advances provide tools to help map drawers evaluate potential tradeoffs between redistricting criteria in the map generation process. Additionally, once a plan is proposed, relevant metrics can be used to assess the fairness of plans. 
 
-Why is this important?
-What work has previously been done?
+Gerrymandering has been a persistent problem in the US since 1812, but new developments in computation have provided a novel set of tools for addressing this issue. Academic groups at Princeton, Duke, and Tufts have been working in this space for the past several years, developing the underlying mathematical theories and computational tools necessary to assess gerrymandering of legislative maps. Members of these groups have also testified as expert witnesses in suits brought against legislative maps. In addition, they've also supported non-partisan map drawers attempting to rectify maps deemed unconstitutional, and in one instance, even produced an amicus curiae brief submitted to the Supreme Court in Rucho v. Common Cause (2019); supporting the application of these methods for assessing legislative maps on the basis of partisan or racial bias. However, 2021 is the first redistricting cycle in which maps are being drawn while these ensemble-based analysis tools are publicly available. This means that the current redistricting cycle is a novel opportunity for map drawing commissions, consultant groups, and advocacy organizations to apply these tools to produce fairer maps or to evaluate and challenge potentially gerrymandered legislative maps as they are developed.
 
 **Stakeholders**
 
-Who are the important stakeholders and what has your team done to take them into consideration?
-What are the use cases you’re building for?
+State demographers
+State legislators
+Elected institutions
+Political parties
+Judges
+Advocacy (National Civil Rights groups)
+Academia
+Local community groups
 
 **Ethics**
 
-What are the ethical questions you considered as a team?
-How are you addressing them in your work?
+As a team, we have had extensive conversations about intentional or unintentional partisan leanings, that is, to favor a partisan party’s outcomes in our work. Instead, we aim to uphold principles of fairness and democratic representation in the redistricting process. In any nationwide study, there’s a risk of flattening local and state-conditions and the need to honor communities. Given the legacy of racial segregation, redlining, racialized geographies, and the history of race relations and exclusion in this country, redistricting reinforces these conditions.
+
+
+GerryChain as a computational tool for redistricting is open source and widely available. One of our primary outputs is a transparent guide, which is accessible enough to enable anyone with modest technical skills to utilize these tools for the purpose of analyzing or challenging potentially gerrymandered maps in their own states. We engage with a variety of stakeholders to understand their perspectives and roles in the redistricting process, as well as to capture greater nuance about their state and local specific context. We want to prioritizing The Voting Rights Act in our analysis, and roleplay bad intent/exploitation for these tools while designing a guideline for accessibility.
+
