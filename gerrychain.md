@@ -18,7 +18,8 @@ GerryChain also allows users to track multiple properties of interest for each i
 
 The primary form of data for analysis in GerryChain is a dual graph. Dual graphs are built using shapefiles containing geographic data that tracks the boundaries of voting precincts and tabular data that tracks population, demographic, and voting data within those precincts. For our state level case studies, we primarily used shapefiles that were constructed and made publicly available by the [Metrics Geometry and Gerrymandering Group (MGGG)](https://mggg.org/) at Tufts University. In the case of Colorado, we also merged in some archival election data from the Secretary of State's office. Because the 2020 Census data had not yet been released while we were conducting our analyses, we could not use the most updated population data. But in our guide we discuss some approaches to creating shapefiles from scratch after the census data becomes available on August 12, 2021.
 
-
+## Other Sources of Pre-Processed Shapefiles:
 * [MGGG](https://github.com/mggg-states/)
 * [Redistricting Data Hub](https://redistrictingdatahub.com)
+* [Open Precincts](https://openprecincts.org/)
 * [VRA Ensembles](https://github.com/mggg/VRA_ensembles)
