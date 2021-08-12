@@ -36,10 +36,10 @@ We selected three state case studies that work through each of these specific Ge
 ### Use Cases
 
 Georgia: Using GerryChain’s Built in Metrics
-Focus: Metrics 
+- Focus: Metrics 
 
 Colorado: Using GerryChain to Support the Map Drawing Process
-Focus: Political Competitiveness
+- Focus: Political Competitiveness
 
 Texas: Using GerryChain to Evaluate Proposed or Enacted Maps
-Focus: Voting Rights Act and Opportunity Districts
+- Focus: Voting Rights Act and Opportunity Districts
