@@ -5,9 +5,14 @@ title: Glossary
 
 Compactness
 
+Contiguity
+
 Gerrymandering
 
-Markov chain Monte Carlo
+Markov Chain Monte Carlo
+
+Population Balance
 
 Redistricting
+
 
