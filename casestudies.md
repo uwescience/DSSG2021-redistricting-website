@@ -3,7 +3,7 @@ layout: page
 title: Case Studies Overview
 ---
 
-We conducted three different use cases of GerryChain across three different state contexts. The purpose of this exercise is to illustrate the decision process associated with different types of analysis across differing state contexts. These case studies complement the guide's outline of GerryChain steps from start to finish, demonstrating the application of each stage alongside example code found on our [Github project repository](https://github.com/uwescience/dssg2021-redistricting).
+We conducted three different use cases of GerryChain across three different state contexts to demonstrate the process of computational redistricting. The purpose of this exercise is to illustrate the decision process associated with different types of analysis across differing state contexts. These case studies complement the guide's outline of GerryChain steps from start to finish, following the application of each stage alongside example code found on our [Github project repository](https://github.com/uwescience/dssg2021-redistricting).
 
 ### Case Study Structure
 
