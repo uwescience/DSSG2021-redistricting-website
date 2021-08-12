@@ -3,6 +3,7 @@ layout: page
 title: Texas
 ---
 
+![image](https://user-images.githubusercontent.com/2799135/129251434-135ef164-32c9-43ee-bd97-4a92d3b3e3b8.png)
 
 
 ## Focus
