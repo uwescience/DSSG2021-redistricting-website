@@ -7,21 +7,15 @@ title: About
 
 Team Photo
 
-Individual Bios
+### The Fellows
 
 #### Rowana Ahmed
 
-Rowana Ahmed is a Master’s student in the Health Data Science program at Harvard University. She earned her BSE and MSE in Bioengineering from the University of Pennsylvania. Prior to starting her graduate program at Harvard, Rowana worked as a Technology Consultant at Accenture and later as an Analytics Manager at Humanyze, a people analytics startup dedicated to improving organizational health using social network analysis.
-
-Rowana’s research focus is in social determinants of health, and she is particularly interested in harnessing the power of data science to design public policy aimed at improving health equity. She is excited to work with the DSSG team this summer to help curb gerrymandering practices for more just and fairer elections.
+Rowana Ahmed is a Master’s student in the Health Data Science program at Harvard University. She earned her BSE and MSE in Bioengineering from the University of Pennsylvania. Prior to starting her graduate program at Harvard, Rowana worked as a Technology Consultant at Accenture and later as an Analytics Manager at Humanyze, a people analytics startup dedicated to improving organizational health using social network analysis. Rowana’s research focus is in social determinants of health, and she is particularly interested in harnessing the power of data science to design public policy aimed at improving health equity. She is excited to work with the DSSG team this summer to help curb gerrymandering practices for more just and fairer elections.
 
 #### Katherine Chang
 
-Katherine Chang is a PhD student in Education Policy, Organizations, and Leadership at the College of Education, University of Washington and an MPA student in Social Policy at the Evans School of Public Policy and Governance.
-
-Katherine’s research agenda is composed of three strands of inquiry: the politics of education reform, the politics of race in education policymaking, and cross-systems interactions between social and education policy. Her dissertation examines the political institutions engaged in court-mandated school finance reform and interrogates the racialized geographies tied to educational funding gaps. Katherine primarily uses quantitative and computational social science methods in her research, with particular interest in social network analysis and text-as-data methods.
-
-Katherine’s graduate studies are part of her continued journey to train in equitable data practices and responsible, justice-centered research. She is looking forward to participating in DSSG to realize data-driven solutions for mediating social inequities and to promote ambitions towards research rooted in social good.
+Katherine Chang is a PhD student in Education Policy, Organizations, and Leadership at the College of Education, University of Washington and an MPA student in Social Policy at the Evans School of Public Policy and Governance. Katherine’s research agenda is composed of three strands of inquiry: the politics of education reform, the politics of race in education policymaking, and cross-systems interactions between social and education policy. Her dissertation examines the political institutions engaged in court-mandated school finance reform and interrogates the racialized geographies tied to educational funding gaps. Katherine primarily uses quantitative and computational social science methods in her research, with particular interest in social network analysis and text-as-data methods. Katherine’s graduate studies are part of her continued journey to train in equitable data practices and responsible, justice-centered research. She is looking forward to participating in DSSG to realize data-driven solutions for mediating social inequities and to promote ambitions towards research rooted in social good.
 
 #### Ryan Goehrung
 
@@ -31,8 +25,6 @@ Ryan Goehrung is originally from Montana, but his work in the international deve
 
 Michael Gregory Souffrant is a Ph.D. candidate in Computational Biophysical Chemistry at Georgia State University. His research is based on molecular dynamics (MD) and analyzing computer simulations of biomolecular structures. He is currently probing the impact of mutations on HIV in resisting drug inhibition. Michael is interested in learning more data visualization and machine learning techniques at the Data Science for Social Good internship. He is excited about the program’s collaborative opportunities and his contribution in using computational approaches to resolve political issues. He was the president of the Chemistry Graduation Student Association and hosted/organized the Chemistry Research Symposium. He taught environmental and physical sciences to K-12 students as a fellow of the Bio-Bus program. He enjoys working out, social dancing and playing basketball. Michael currently lives in Atlanta, Georgia.
 
-
-Roles or Contributions (optional, only if it makes sense to your team)
 
 Where readers can find more details about the project, e.g. code, data, reports, etc.
 
