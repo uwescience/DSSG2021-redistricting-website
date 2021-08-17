@@ -10,7 +10,7 @@ title: GerryChain
 
 GerryChain also allows users to track multiple attributes of interest for each individual plan in an ensemble, such as: population, demographics, and historical voting patterns by district. This enables users to conduct a variety of statistical tests and analyses to evaluate how proposed maps perform across several metrics of interest. For example, GerryChain has [built-in functions](https://gerrychain.readthedocs.io/en/latest/api.html#module-gerrychain.metrics) to help users compute proposed metrics, like partisan bias, wasted votes, and the efficiency gap based on past election data. Because they contain so many plans, MCMC ensembles can converge to the underlying distribution’s various properties of all valid plans. These ensemble distributions can then be used as a representative baseline with which to compare the properties of specific proposed or enacted maps. Plans that are outliers on distributions of thoughtfully applied metrics can then be identified as potential cases of gerrymandering.
 
-####For more on GerryChain, see the following:
+#### For more on GerryChain, see the following:
 * [GerryChain Overview](http://www.math.wsu.edu/faculty/ddeford/GerryChain_Guide.pdf)
 * [GerryChain Main Github Repo](http://github.com/mggg/gerrychain)
 
