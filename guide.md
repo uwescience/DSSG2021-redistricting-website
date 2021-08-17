@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guide
+title: User's Guide
 ---
 
 **Deliverables**
