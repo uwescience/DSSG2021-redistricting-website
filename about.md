@@ -33,7 +33,7 @@ Michael Gregory Souffrant is a Ph.D. candidate in Computational Biophysical Chem
 
 #### Daryl DeFord
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-daryl.jpg" style="width: 50%; height: 50%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-daryl.jpg" style="width: 40%; height: 40%"></center>
 
 Daryl is an Assistant Professor of Data Analytics in the Department of Mathematics and Statistics at Washington State University. He was formerly a postdoctoral associate in the Geometric Data Processing Group at the Massachusetts Institute of Technology (MIT). He is also affiliated with the Metric Geometry and Gerrymandering Group (MGGG), whose mission is to study applications of geometry and computing to U.S. redistricting, based on the belief that gerrymandering of all kinds is a fundamental threat to our democracy. Daryl’s work with MGGG has focused on understanding mathematical representations of political geography and developing open-source software for analyzing districting plans. Additionally, he has studied the potential impacts of proposed language in citizen’s initiatives and ballot measures on Voting Rights Act (VRA) compliance and partisan fairness. He has a Ph.D. in Mathematics from Dartmouth College focused on analyzing the dynamics of information flow in social networks.
 
