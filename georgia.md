@@ -22,6 +22,9 @@ Considering this particular set of examples, which shows three possible redistri
 
 A curated reading list is provided below.
 
+* Deford, D., Dhamankar, N., Duchin, M., Gupta, V., McPike, M., Schoenbach, G., & K., Sim (2021)Implementing partisan symmetry: Problems and paradoxes,arXiv
+
+
 ### Case Study Findings
 
 
