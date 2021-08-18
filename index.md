@@ -23,6 +23,5 @@ This summer, we used modern computational methods and statistical techniques to 
 
 The main objectives of this project were to gain insights into GerryChain's potential by applying it to unique redistricting problems in three states, Georgia, Colorado, and Texas, and use this experience to develop a comprehensive user's guide to increase access to the GerryChain toolset. As the 2021 redistricting cycle is currently underway, this project has the potential to empower community members, activists, and non-partisan redistricting committees to use GerryChain to participate in their state's redistricting process more effectively.
 
-
-
+![image](https://user-images.githubusercontent.com/35081948/129835087-ef205f42-a3a7-4286-8ed6-50bba40cbaf1.png)
 ---
