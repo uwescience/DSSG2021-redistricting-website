@@ -9,8 +9,6 @@ The primary output of our project is a guide entitled *"Applying GerryChain: A U
 
 ![image](https://user-images.githubusercontent.com/35081948/129835578-95beb27a-c561-475b-8493-50ae1192a6cb.png)
 
-
-
 **Outcomes**
 
-The release of this user's guide intentionally coincides with the current redistricting cycle. Since the 2020 Census data was only released on August 12, 2021, most states have only just begun their formal redistricting processes. This guide is, therefore, a timely addition to the ongoing redistricting cycle. Though it is too early to tell how many people will use the guide in this cycle, the design and focus were informed by our meetings with several stakeholders already operating in the sphere of congressional redistricting. Given the technical complexity of this problem, and the fact that this is the first redistricting cycle in which computational tools like GerryChain are widely avaialble, we are confident that there is both a need for resources like this guide that can help new users apply GerryChain to redistricting problems more effectively.
+The release of this user's guide intentionally coincides with the current redistricting cycle. Since the 2020 Census data was only released on August 12, 2021, most states have only just begun their formal redistricting processes. This guide is, therefore, a timely addition to the ongoing redistricting cycle. Though it is too early to tell how many people will use the guide in this cycle, the design and focus were informed by our meetings with several stakeholders already operating in the sphere of congressional redistricting. Given the technical complexity of this problem, and the fact that this is the first redistricting cycle in which computational tools like GerryChain are widely available, we are confident that there is both a need for resources like this guide that can help new users apply GerryChain to redistricting problems more effectively.
