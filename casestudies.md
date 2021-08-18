@@ -13,7 +13,7 @@ The first step of any data driven project includes [data wrangling](https://onli
 
 We describe the data challenges specific to each state, particularly highlighting how a state-level focus and analyses unique to that context (e.g., political competitiveness, Voting Rights Act compliance) drive the front-end data work that allows the rest of the process to unfold smoothly .
 
-#### Stage 2. Exploratory Data Analysis (EDA):
+#### Stage 2. Exploratory Data Analysis (EDA) & Modeling Decisions:
 
 Before delving into the application of GerryChain, it is important to spend some time familiarizing yourself with state level data and the redistricting criteria unique to that context. Users will likely want to read their state’s legislation on the redistricting guidelines to help ensure that their approach in GerryChain conforms to those basic requirements; otherwise they risk producing maps that are not viable under the law. Relatedly, users should think carefully about what analyses they are interested in running and attempt to identify or develop the appropriate modeling decisions or tests for their metrics of interest. Careful consideration of these factors are important before the tools can be effectively applied.
 
