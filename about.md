@@ -41,13 +41,13 @@ Daryl is an Assistant Professor of Data Analytics in the Department of Mathemati
 
 #### Bernease Herman
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-bernease.jpg" style="width: 50%; height: 50%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-bernease.png" style="width: 50%; height: 50%"></center>
 
 Bernease was most recently a Software Development Engineer at Amazon, where she collaborated with operations research scientists and statisticians to add economic constraints and buying models to Amazon’s Inventory Planning and Control system. Previous to Amazon, Bernease worked on derivatives pricing and predictive modeling at the research arm of Morgan Stanley. Bernease earned her B.S. in Mathematics and Statistics from the University of Michigan.
 
 #### Vaughn Iverson
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-vaughn.jpg" style="width: 50%; height: 50%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-vaughn.jpeg" style="width: 50%; height: 50%"></center>
 
 Vaughn Iverson is a Senior Research Scientist with the Center for Environmental Genomics in the UW School of Oceanography, where his research involves developing biological sensing methods capable of inferring the behaviors and interactions within natural microbial communities by identifying and quantifying genes and proteins used by specific members of the community (metagenomics and metatranscriptomics).
 
