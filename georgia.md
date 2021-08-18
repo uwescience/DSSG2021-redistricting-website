@@ -31,7 +31,9 @@ Given the 2020 Census, the population of Georgia grew by 1 million since the 201
 
 ### Results
 
-The completed Georgia case study report will be published August 20th, 2021. Interested parties can view the team’s Georgia work-in-progress on our Github repository.
+<b>The completed Georgia case study report will be published August 20th, 2021.<b> Interested parties can view the team’s Georgia work-in-progress on our Github repository.
+
+<b>The completed Colorado case study report will be published August 20th, 2021.</b> Interested parties can view the team's Colorado work-in-progress on our [Github repository](https://github.com/uwescience/dssg2021-redistricting).
 
 
 
