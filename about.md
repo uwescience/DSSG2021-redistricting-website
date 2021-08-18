@@ -33,7 +33,7 @@ Michael Gregory Souffrant is a Ph.D. candidate in Computational Biophysical Chem
 
 #### Daryl DeFord
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-daryl.jpg" style="width: 35%; height: 35%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-daryl.jpg" style="width: 200px"></center>
 
 Daryl is an Assistant Professor of Data Analytics in the Department of Mathematics and Statistics at Washington State University. He was formerly a postdoctoral associate in the Geometric Data Processing Group at the Massachusetts Institute of Technology, and was also affiliated with the Metric Geometry and Gerrymandering Group (MGGG) at Tufts University. MGGG's mission is to study applications of geometry and computing to U.S. redistricting, based on the belief that gerrymandering of all kinds is a fundamental threat to our democracy. Daryl’s work with MGGG has focused on understanding mathematical representations of political geography and developing open-source software for analyzing districting plans. Additionally, he has studied the potential impacts of proposed language in citizen’s initiatives and ballot measures on Voting Rights Act compliance and partisan fairness. He has a Ph.D. in Mathematics from Dartmouth College focused on analyzing the dynamics of information flow in social networks.
 
@@ -41,13 +41,13 @@ Daryl is an Assistant Professor of Data Analytics in the Department of Mathemati
 
 #### Bernease Herman
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-bernease.png" style="width: 40%; height: 40%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-bernease.png" style="width: 200px"></center>
 
 Bernease was most recently a Software Development Engineer at Amazon, where she collaborated with operations research scientists and statisticians to add economic constraints and buying models to Amazon’s Inventory Planning and Control system. Previous to Amazon, Bernease worked on derivatives pricing and predictive modeling at the research arm of Morgan Stanley. Bernease earned her B.S. in Mathematics and Statistics from the University of Michigan.
 
 #### Vaughn Iverson
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-vaughn.jpeg" style="width: 40%; height: 40%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-vaughn.jpeg" style="width: 200px"></center>
 
 Vaughn Iverson is a Senior Research Scientist with the Center for Environmental Genomics in the UW School of Oceanography, where his research involves developing biological sensing methods capable of inferring the behaviors and interactions within natural microbial communities by identifying and quantifying genes and proteins used by specific members of the community (metagenomics and metatranscriptomics).
 
