@@ -22,11 +22,16 @@ Considering this particular set of examples, which shows three possible redistri
 
 A curated reading list is provided below.
 
-* Deford, D., Dhamankar, N., Duchin, M., Gupta, V., McPike, M., Schoenbach, G., & K., Sim (2021)Implementing partisan symmetry: Problems and paradoxes,arXiv
-
+* Bernstein, M., Duchin., M., (2017). A Formula goes to court: partisan gerrymandering and the efficiency gap. *Notices of the American Mathemathecal Society, 64*(9), 1-6.  
+* Deford, D., Dhamankar, N., Duchin, M., Gupta, V., McPike, M., Schoenbach, G., & Sim K. W., (2021). Implementing partisan symmetry: problems and paradoxes. *arXiv*, 1-20.
 
 ### Case Study Findings
 
+Given the 2020 Census, the population of Georgia grew by 1 million since the 2010 Census, in which casse, Georgia now contains 10.7 million residents. During the summer, state lawmakers will hold 11 town hall meetings for public hearing about the redistricting process in Georgia, which occurs every 10 years. By Sept. 30, data regarding race counts, voting age, and housing occupancy status, will be release by the U.S. Census Bureau. By late fall this year (2021), the Georgia General Assembly will have a meeting to change the borders of the U.S House districts, state Senate, and state House.
+
+### Results
+
+The completed Georgia case study report will be published August 20th, 2021. Interested parties can view the team’s Georgia work-in-progress on our Github repository.
 
 
 
