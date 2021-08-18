@@ -3,11 +3,7 @@ layout: page
 title: About
 ---
 
-### About
-
-
 ### The Fellows
-
 
 #### Rowana Ahmed
 
@@ -20,8 +16,7 @@ Rowana Ahmed is a Master’s student in the Health Data Science program at Harva
 
 ![image](https://user-images.githubusercontent.com/35081948/129811838-3967c099-3122-4a10-997a-5b6af55be3a2.png)
 
-Katherine Chang is a PhD student in Education Policy, Organizations, and Leadership at the College of Education, University of Washington and an MPA student in Social Policy at the Evans School of Public Policy and Governance. Katherine’s research agenda is composed of three strands of inquiry: the politics of education reform, the politics of race in education policymaking, and cross-systems interactions between social and education policy. Her dissertation examines the political institutions engaged in court-mandated school finance reform and interrogates the racialized geographies tied to educational funding gaps. Katherine primarily uses quantitative and computational social science methods in her research, with particular interest in social network analysis and text-as-data methods. Katherine’s graduate studies are part of her continued journey to train in equitable data practices and responsible, justice-centered research. She is looking forward to participating in DSSG to realize data-driven solutions for mediating social inequities and to promote ambitions towards research rooted in social good.
-
+Katherine Chang is a PhD candidate in Education Policy, Organizations, and Leadership at the College of Education, University of Washington and an MPA student in Social Policy at the Evans School of Public Policy and Governance. Katherine’s research agenda is composed of three strands of inquiry: the politics of education reform, the politics of race in education policymaking, and cross-systems interactions between social and education policy. Her dissertation examines the political institutions engaged in court-mandated school finance reform and interrogates the racialized geographies tied to educational funding gaps. Katherine primarily uses quantitative and computational social science methods in her research, with particular interest in social network analysis and text-as-data methods. Katherine’s graduate studies are part of her continued journey to train in equitable data practices and responsible, justice-centered research. Her work at DSSG seeks to realize data-driven solutions for mediating social inequities and to promote ambitions towards research rooted in social good.
 
 #### Ryan Goehrung
 
@@ -29,17 +24,33 @@ Katherine Chang is a PhD student in Education Policy, Organizations, and Leaders
 
 [Ryan Goehrung](https://www.polisci.washington.edu/people/ryan-goehrung) is originally from Montana, but his work in the international development sector has taken him to the Philippines, India, Honduras, Taiwan and Rwanda where he has worked on coastal environmental conservation, economic empowerment, global health, and anti-human trafficking initiatives. He is currently a PhD Candidate at the University of Washington in Political Science. His dissertation focuses on women’s political representation in Southeast Asia, and he maintains a passion for research that bridges the gap between academia and development. These interests immediately drew him to the DSSG program, which he views as a perfect combination of social science work with a social justice impact. When not reading or writing about politics, he loves exploring the Pacific Northwest outdoors whenever possible with his fiancé, Emily, and his dog, Mooshie, including hiking, camping, rock climbing, and snowboarding.
 
-
 #### Michael Souffrant
 
 ![image](https://user-images.githubusercontent.com/35081948/129811861-22dbc272-ee59-4345-b66e-bfeb7c28a265.png)
 
 Michael Gregory Souffrant is a Ph.D. candidate in Computational Biophysical Chemistry at Georgia State University. His research is based on molecular dynamics (MD) and analyzing computer simulations of biomolecular structures. He is currently probing the impact of mutations on HIV in resisting drug inhibition. Michael is interested in learning more data visualization and machine learning techniques at the Data Science for Social Good internship. He is excited about the program’s collaborative opportunities and his contribution in using computational approaches to resolve political issues. He was the president of the Chemistry Graduation Student Association and hosted/organized the Chemistry Research Symposium. He taught environmental and physical sciences to K-12 students as a fellow of the Bio-Bus program. He enjoys working out, social dancing and playing basketball. Michael currently lives in Atlanta, Georgia.
 
+### Project Lead
 
-Where readers can find more details about the project, e.g. code, data, reports, etc.
+#### Daryl DeFord
+
+Daryl is an Assistant Professor of Data Analytics in the Department of Mathematics and Statistics at Washington State University. He was formerly a postdoctoral associate in the Geometric Data Processing Group at the Massachusetts Institute of Technology (MIT). He is also affiliated with the Metric Geometry and Gerrymandering Group (MGGG), whose mission is to study applications of geometry and computing to U.S. redistricting, based on the belief that gerrymandering of all kinds is a fundamental threat to our democracy. Daryl’s work with MGGG has focused on understanding mathematical representations of political geography and developing open-source software for analyzing districting plans. Additionally, he has studied the potential impacts of proposed language in citizen’s initiatives and ballot measures on Voting Rights Act (VRA) compliance and partisan fairness. He has a Ph.D. in Mathematics from Dartmouth College focused on analyzing the dynamics of information flow in social networks.
+
+### Data Scientists
+
+#### Bernease Herman
+
+Bernease was most recently a Software Development Engineer at Amazon, where she collaborated with operations research scientists and statisticians to add economic constraints and buying models to Amazon’s Inventory Planning and Control system. Previous to Amazon, Bernease worked on derivatives pricing and predictive modeling at the research arm of Morgan Stanley. Bernease earned her B.S. in Mathematics and Statistics from the University of Michigan.
+
+#### Vaughn Iverson
+
+Vaughn Iverson is a Senior Research Scientist with the Center for Environmental Genomics in the UW School of Oceanography, where his research involves developing biological sensing methods capable of inferring the behaviors and interactions within natural microbial communities by identifying and quantifying genes and proteins used by specific members of the community (metagenomics and metatranscriptomics).
+
+Vaughn joined the eScience Institute in January of 2016 and contributes expertise in development of high performance parallel software, web technologies, noSQL databases, and data compression and visualization techniques. Vaughn is the author and maintainer of several popular open source packages and is an active contributor to many others.
+
+Vaughn earned his PhD in Biological Oceanography from the University of Washington in 2015, and also holds a MS in Computer Science from the University of Washington, Seattle and a BS in Computer Science and Chemistry from Washington State University, Pullman. Prior to commencing his PhD work, Vaughn spent over a decade in the computer industry working for Intel Corp as a Staff Research Scientist developing video compression, internet media streaming and content distribution technologies, for which he was awarded twenty US patents.
 
 ### Acknowledgements
 
-The fellows would like to thank the enitre UW e-Science Institute, the technical and personal support offered by its amazing staff throughout the summer was invaluable. Special thanks to Anissa Tanweer for organizing and leading the DSSG Summer Fellowship Program, to Vaughn Iverson for his guidance and insights that continually helped to make the project and its outputs better, as well as to Bernease Herman for her generosity in always being ready to offer technical support and impromptu trainings as needed. Finally, we would like to thank our project lead, Daryl Deford, whose leadership and expertise on the subject of computational redistricting was crucial to our success.
+The student fellows would like to thank the University of Washington eScience Institute -- the technical and personal support offered by its amazing staff throughout the summer was invaluable. Special thanks to Anissa Tanweer for organizing and leading the DSSG Summer Fellowship Program, to Vaughn Iverson for his guidance and insights that continually helped to make the project and its outputs better, as well as to Bernease Herman for her generosity in always being ready to offer technical support and impromptu trainings as needed. Finally, we would like to thank our project lead, Daryl Deford, whose leadership and expertise on the subject of computational redistricting was crucial to our success.
 
