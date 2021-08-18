@@ -7,25 +7,25 @@ title: About
 
 #### Rowana Ahmed
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-rowana.png"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-rowana.png" style="height: 300px; border:2px #000000"></center>
 
 Rowana Ahmed is a Master’s student in the Health Data Science program at Harvard University. She earned her BSE. and MSE in Bioengineering from the University of Pennsylvania. Prior to starting her graduate program at Harvard, Rowana worked as a Technology Consultant at Accenture and later as an Analytics Manager at Humanyze, a people analytics startup dedicated to improving organizational health using social network analysis. Rowana’s research focus is in social determinants of health, and she is particularly interested in harnessing the power of data science to design public policy aimed at improving health equity. She is excited to work with the DSSG team this summer to help curb gerrymandering practices for more just and fairer elections.
 
 #### Katherine Chang
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-katherine.png"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-katherine.png" style="height: 300px; border:2px #000000"></center>
 
 Katherine Chang is a Ph.D. candidate in Education Policy, Organizations, and Leadership at the College of Education, University of Washington and an MPA student in Social Policy at the Evans School of Public Policy and Governance. Katherine’s research agenda is composed of three strands of inquiry: the politics of education reform, the politics of race in education policymaking, and cross-systems interactions between social and education policy. Her dissertation examines the political institutions engaged in court-mandated school finance reform and interrogates the racialized geographies tied to educational funding gaps. Katherine primarily uses quantitative and computational social science methods in her research, with particular interest in social network analysis and text-as-data methods. Katherine’s graduate studies are part of her continued journey to train in equitable data practices and responsible, justice-centered research. Her work at DSSG seeks to realize data-driven solutions for mediating social inequities and to promote ambitions towards research rooted in social good.
 
 #### Ryan Goehrung
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-ryan.png"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-ryan.png" style="height: 300px; border:2px #000000"></center>
 
 [Ryan Goehrung](https://www.polisci.washington.edu/people/ryan-goehrung) is originally from Montana, but his work in the international development sector has taken him to the Philippines, India, Honduras, Taiwan and Rwanda where he has worked on coastal environmental conservation, economic empowerment, global health, and anti-human trafficking initiatives. He is currently a Ph.D. Candidate at the University of Washington in Political Science. His dissertation focuses on women’s political representation in Southeast Asia, and he maintains a passion for research that bridges the gap between academia and development. These interests immediately drew him to the DSSG program, which he views as a perfect combination of social science work with a social justice impact. When not reading or writing about politics, he loves exploring the Pacific Northwest outdoors whenever possible with his fiancé, Emily, and his dog, Mooshie, including hiking, camping, rock climbing, and snowboarding.
 
 #### Michael Souffrant
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-michael.png"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-michael.png" style="height: 300px; border:2px #000000"></center>
 
 Michael Gregory Souffrant is a Ph.D. candidate in Computational Biophysical Chemistry at Georgia State University. His research is based on molecular dynamics (MD) and analyzing computer simulations of biomolecular structures. He is currently probing the impact of mutations on HIV in resisting drug inhibition. Michael is interested in learning more data visualization and machine learning techniques at the Data Science for Social Good internship. He is excited about the program’s collaborative opportunities and his contribution in using computational approaches to resolve political issues. He was the president of the Chemistry Graduation Student Association and hosted/organized the Chemistry Research Symposium. He taught environmental and physical sciences to K-12 students as a fellow of the Bio-Bus program. He enjoys working out, social dancing and playing basketball. Michael currently lives in Atlanta, Georgia.
 
@@ -33,7 +33,7 @@ Michael Gregory Souffrant is a Ph.D. candidate in Computational Biophysical Chem
 
 #### Daryl DeFord
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-daryl.jpg" style="height: 300px"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-daryl.jpg" style="height: 300px; border:2px #000000"></center>
 
 Daryl is an Assistant Professor of Data Analytics in the Department of Mathematics and Statistics at Washington State University. He was formerly a postdoctoral associate in the Geometric Data Processing Group at the Massachusetts Institute of Technology, and was also affiliated with the Metric Geometry and Gerrymandering Group (MGGG) at Tufts University. MGGG's mission is to study applications of geometry and computing to U.S. redistricting, based on the belief that gerrymandering of all kinds is a fundamental threat to our democracy. Daryl’s work with MGGG has focused on understanding mathematical representations of political geography and developing open-source software for analyzing districting plans. Additionally, he has studied the potential impacts of proposed language in citizen’s initiatives and ballot measures on Voting Rights Act compliance and partisan fairness. He has a Ph.D. in Mathematics from Dartmouth College focused on analyzing the dynamics of information flow in social networks.
 
@@ -41,13 +41,13 @@ Daryl is an Assistant Professor of Data Analytics in the Department of Mathemati
 
 #### Bernease Herman
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-bernease.png" style="height: 300px"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-bernease.png" style="height: 300px; border:2px #000000"></center>
 
 Bernease was most recently a Software Development Engineer at Amazon, where she collaborated with operations research scientists and statisticians to add economic constraints and buying models to Amazon’s Inventory Planning and Control system. Previous to Amazon, Bernease worked on derivatives pricing and predictive modeling at the research arm of Morgan Stanley. Bernease earned her B.S. in Mathematics and Statistics from the University of Michigan.
 
 #### Vaughn Iverson
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-vaughn.jpeg" style="height: 300px"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/about-vaughn.jpeg" style="height: 300px; border:2px #000000"></center>
 
 Vaughn Iverson is a Senior Research Scientist with the Center for Environmental Genomics in the UW School of Oceanography, where his research involves developing biological sensing methods capable of inferring the behaviors and interactions within natural microbial communities by identifying and quantifying genes and proteins used by specific members of the community (metagenomics and metatranscriptomics).
 
