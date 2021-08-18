@@ -39,5 +39,7 @@ A curated reading list has been provided below.
 
 There are two significant challenges inherent to this Colorado case study. First is Colorado's hierarchical criteria structure, which requires the balanace of multiple conditions before attending to political competitiveness. Second is the ambiguity of the concept of political competitiveness itself. Therefore, our case study will specifically describe the decision-making trade-offs on how to draw maps that maximize the number of political competitive districts.
 
+### Results
+
 <b>The completed Colorado case study report will be published August 20th, 2021.</b> Interested parties can view the team's Colorado work-in-progress on our [Github repository](https://github.com/uwescience/dssg2021-redistricting).
 
