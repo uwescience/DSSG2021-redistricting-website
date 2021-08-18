@@ -14,6 +14,7 @@ As we probe one of the built-in metrics of GerryChain, we introduce a standard w
 
 ### Wasted Votes
 
+Wasted votes by definition; are any votes cast for either party in excess to the 50% needed to win. The first step of our analysis involves generating an ensemble of proposed plans through GerryChain. Then, we measure the “wasted votes” count per district, per party, for each plan within the ensemble. Afterwards, we take the total “wasted votes” count along the ensemble to generate the percentages of “wasted votes” for either party. As such, we ultimately compare “wasted votes percentages with the 2011 enacted plan of Georgia using the 2016 presidential election data.
 
 
 
