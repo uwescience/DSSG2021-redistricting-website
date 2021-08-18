@@ -21,14 +21,12 @@ Gerrymandering has been a persistent problem in the US since 1812, but new devel
 
 ### Stakeholders
 
+* Academics and interested researchers
+* Civil rights organizations and legal advocates
+* Community members 
+* Redistricting commissioners
 * State demographers
 * State legislators
-* Elected institutions
-* Political parties
-* Judges
-* Advocacy (National Civil Rights groups)
-* Academia
-* Local community groups
 
 ### Ethics
 
