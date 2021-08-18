@@ -7,9 +7,9 @@ title: Texas
 
 
 ## Focus
-Texas has experienced an estimated [15.9% population growth](https://www.texastribune.org/2021/08/12/texas-2020-census/) over the last decade driven largely by Hispanic groups, and this has resulted in two new congressional seats being allocated to Texas in the upcoming 2021 redistricting cycle. However, this growth has not been evenly distributed across the state. In fact, 143 of the 254 counties in Texas have experienced a declining population.
+Texas has experienced an estimated [15.9% population growth](https://www.texastribune.org/2021/08/12/texas-2020-census/) over the last decade, driven largely by Hispanic groups. This has resulted in two new congressional seats being allocated to Texas in the upcoming 2021 redistricting cycle. However, this growth has not been evenly distributed across the state. In fact, 143 of the 254 counties in Texas have experienced a declining population.
 
-In the new redistricting cycle, it is crucial to consider what a fair map looks like for Black and Latino voters. As Texas considers where to place these two new seats, it will be important to not only account for changing population patterns within the state, but also to ensure that minority groups have equal representation. 
+As Texas considers where to place these two new districts, it will be important to not only account for changing population patterns within the state, but also to ensure that minority groups have equal representation. In the new redistricting cycle, it is crucial to consider what a fair map looks like for Black and Latino voters. 
 
 ## State & Historical Context
 
@@ -23,15 +23,15 @@ Texas in particular has a contentious history complying with the Voting Rights A
 
 
  
-Section V of VRA required 16 states, including Texas to receive preclearance from the Department of Justice in order to change districting plans. During the last cycle, the plan originally proposed by Texas state legislatures in 2011 was denied preclearance due to possible racial gerrymandering, but in 2013, the coverage clause of the preclearance requirement in the VRA was ruled unconstitutional by the Supreme Court. And so that proposed plan was signed into law by the Texas governor. 
+Section V of VRA required 16 states, including Texas to receive preclearance from the Department of Justice in order to change districting plans. During the previous cycle, the plan originally proposed by Texas state legislatures in 2011 was denied preclearance due to possible racial gerrymandering. But in 2013, the coverage clause of the preclearance requirement in the VRA was ruled unconstitutional by the Supreme Court. Thus, that proposed plan was signed into law by the Texas governor. 
 
-The plan was challenged again in 2017 on grounds of racial discrimination but ultimately upheld by the Supreme Court. This upcoming redistricting cycle will be the first where preclearance requirements are no longer in place, raising concerns for advocacy groups in Texas and nationwide.
+The plan was challenged again in 2017 on grounds of racial discrimination, but it was ultimately upheld by the Supreme Court. This upcoming redistricting cycle will be the first where preclearance requirements are no longer in place, raising concerns for advocacy groups both in Texas and nationwide.
 
 ## Minority Effective Districts
 
-To decide whether a plan complies with the Voting Rights Act, analysts can consider whether the districts that are being created are effective for minority groups to achieve fair representation. Researchers at the MGGG Redistricting Lab have designed a [method](https://mggg.org/vra) of quantifying this by considering a district to be effective if it is one where a minority preferred candidate is able to both seek nomination during the primaries, as well as win the general election.
+To decide whether a plan complies with the Voting Rights Act, analysts can consider whether the districts that are being created are effective for minority groups to achieve fair representation. Researchers at the MGGG Redistricting Lab have designed a [method](https://mggg.org/vra) of quantifying this by considering a district to be effective if it is one where a minority _preferred_ candidate is able to both seek nomination during the primaries, as well as win the general election.
 
-Using this methodology, we will analyze the interplay of population shifts and minority representation considerations when considering the placement of the two new districts.
+Using this methodology, we will examine the interplay of population shifts and minority representation considerations when analyzing the placement of the two new districts.
 
 
 ## Results
