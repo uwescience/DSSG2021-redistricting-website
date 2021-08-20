@@ -20,6 +20,18 @@ Wasted votes by definition; are any votes cast for either party in excess to the
 
 Considering this particular set of examples, which shows three possible redistricting plans for the same distribution of voters. Each box represent a voter, in which case the stars represent the A party voters and B party voters are shown as blank. Plan I, colored in red, shows a “competitive” and “fair” plan. So we end up with a proper distribution of votes among districts, with 3 districts favoring each party A and party B. Plan II, colored in green, shows “cracked” districts, with 5 districts favoring party A and 1 district favoring party B. As shown in Plan II, the 1 district which favors party B shows “wasted votes” in regards to the party, since A-voters are spread among several adjacent districts and B-voters are condensed into 1 district. Plan III, colored in blue, shows “packed” districts, with 3 districts favoring each party A and party B. In Plan III, both A and B parties show “wasted votes” since voters are condensed into their respective districts.
 
+### Results
+
+The first step of our analysis involves generating an ensemble of proposed plans through GerryChain (2000 plans). We then measure the “wasted votes” count per district per party for each plan within the ensemble. First, we take a state perspective by calculating the total “wasted votes” count along the ensemble to generate the percentages of “wasted votes” for each party. Afterwards, we evaluate “wasted votes” percentatges through a district perspective by averaging the “wasted votes” count for each district along the ensemble. As such, we ultimately compare the percentages of “wasted votes” along the ensemble with the 2011 enacted plan of Georgia using the 2016 presidential election data.
+
+![dist_RD_plot_pres](https://user-images.githubusercontent.com/83964372/130162979-f576ed79-e058-4568-a2d5-998a0e5fb5ea.png)
+
+Looking at the state, the total “wasted votes” percentages of the 2011 enacted plan of Georgia for both the Republican and Democratic parties reflects the history of single-party control on Georgia. The percentage of “wasted votes” for the Republican party was close to ~40%, whereas, the percentage of “wasted votes” for the democratic party was over ~60%. As for the ensemble of plans, however, we start to sample higher “wasted votes” percentages for the Republican party and lower “wasted votes” percentages for the democratic party as an indication that the ensemble of plans are sampling more fair voting outcomes. 
+
+![dist_RD_dist_perc plot](https://user-images.githubusercontent.com/83964372/130164932-7628992f-6902-4cab-916f-00c93802856f.png)
+
+Comparing the districts with the 2011 enacted plan of the state, we can clearly see that some districts are “packed” in regards to both the republican and the democratic parties.The percentage of “wasted votes”, however, are less pronounce for the Republican party once compared with the “wasted votes” of the democratic party. As for the ensemble of plans, however, the change in “wasted votes” percentages is less drastic as we go from district to district, which shows that the ensemble of plans are also reflecting more competitive voting outcomes per district. 
+
 A curated reading list is provided below.
 
 * Bernstein, M., Duchin., M., (2017). A Formula goes to court: partisan gerrymandering and the efficiency gap. *Notices of the American Mathemathecal Society, 64*(9), 1-6.  
@@ -29,10 +41,6 @@ A curated reading list is provided below.
 
 Given the 2020 Census, the population of Georgia grew by 1 million since the 2010 Census, in which casse, Georgia now contains 10.7 million residents. During the summer, state lawmakers will hold 11 town hall meetings for public hearing about the redistricting process in Georgia, which occurs every 10 years. By Sept. 30, data regarding race counts, voting age, and housing occupancy status, will be release by the U.S. Census Bureau. By late fall this year (2021), the Georgia General Assembly will have a meeting to change the borders of the U.S House districts, state Senate, and state House.
 
-### Results
+### Resources
 
-<b>The completed Georgia case study report will be published August 20th, 2021.</b> Interested parties can view the team's Georgia work-in-progress on our [Github repository](https://github.com/uwescience/dssg2021-redistricting).
-
-
-
-
+In addition, we have provided a [Github repository](https://github.com/uwescience/dssg2021-redistricting) which includes more details concerning data processing and analysis of this work. Interested parties involved in redistricting a state of interest with similar parameters are welcome to visit our Gerrychain User's Guide.
