@@ -9,7 +9,7 @@ title: Georgia
 
 <img src="https://ser-images.githubusercontent.com/83964372/129905764-6f9102d7-c061-404d-871e-57b7bc2e8840.gif" width="250" height="250"/>
 
-<img src="/images/output/video1.gif" width="250" height="250"/>
+
 
 
 ### Focus
