@@ -32,8 +32,6 @@ Looking at the state, the total “wasted votes” percentages of the 2011 enact
 
 ![dist_RD_dist_perc plot](https://user-images.githubusercontent.com/83964372/130164932-7628992f-6902-4cab-916f-00c93802856f.png)
 
-<center><img src="https://user-images.githubusercontent.com/83964372/130164932-7628992f-6902-4cab-916f-00c93802856f.png" width="250%" height="250%"></center>
-
 Comparing the districts with the 2011 enacted plan of the state, we can clearly see that some districts are “packed” in regards to both the republican and the democratic parties.The percentage of “wasted votes”, however, are less pronounce for the Republican party once compared with the “wasted votes” of the democratic party. As for the ensemble of plans, however, the change in “wasted votes” percentages is less drastic as we go from district to district, which shows that the ensemble of plans are also reflecting more competitive voting outcomes per district. 
 
 A curated reading list is provided below.
