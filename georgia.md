@@ -15,7 +15,7 @@ title: Georgia
 
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/co_criteria.png" width="50%" height="50%"></center>
 
-<center><img src="https://user-images.githubusercontent.com/83964372/129905764-6f9102d7-c061-404d-871e-57b7bc2e8840.gif" width="80%" height="80%"></center>
+<center><img src="https://user-images.githubusercontent.com/83964372/129905764-6f9102d7-c061-404d-871e-57b7bc2e8840.gif" width="100%" height="100%"></center>
 
 
 ### Focus
