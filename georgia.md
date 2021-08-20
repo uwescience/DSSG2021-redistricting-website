@@ -3,18 +3,6 @@ layout: page
 title: Georgia
 ---
 
-<img src="https://ser-images.githubusercontent.com/83964372/129905764-6f9102d7-c061-404d-871e-57b7bc2e8840.gif" width="48%">
-
-![GA](https://user-images.githubusercontent.com/83964372/129905764-6f9102d7-c061-404d-871e-57b7bc2e8840.gif)
-
-<img src="https://ser-images.githubusercontent.com/83964372/129905764-6f9102d7-c061-404d-871e-57b7bc2e8840.gif" width="100%" height="100%"/>
-
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/co_2012_dualgraph.png"></center>
-
-<center><img src="https://user-images.githubusercontent.com/83964372/129905764-6f9102d7-c061-404d-871e-57b7bc2e8840.gif"></center>
-
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/co_criteria.png" width="50%" height="50%"></center>
-
 <center><img src="https://user-images.githubusercontent.com/83964372/129905764-6f9102d7-c061-404d-871e-57b7bc2e8840.gif" width="100%" height="100%"></center>
 
 
@@ -43,6 +31,10 @@ The first step of our analysis involves generating an ensemble of proposed plans
 Looking at the state, the total “wasted votes” percentages of the 2011 enacted plan of Georgia for both the Republican and Democratic parties reflects the history of single-party control on Georgia. The percentage of “wasted votes” for the Republican party was close to ~40%, whereas, the percentage of “wasted votes” for the democratic party was over ~60%. As for the ensemble of plans, however, we start to sample higher “wasted votes” percentages for the Republican party and lower “wasted votes” percentages for the democratic party as an indication that the ensemble of plans are sampling more fair voting outcomes. 
 
 ![dist_RD_dist_perc plot](https://user-images.githubusercontent.com/83964372/130164932-7628992f-6902-4cab-916f-00c93802856f.png)
+
+<center><img src="https://user-images.githubusercontent.com/83964372/130164932-7628992f-6902-4cab-916f-00c93802856f.png" width="100%" height="100%"></center>
+
+ <center><img src="https://user-images.githubusercontent.com/83964372/129905764-6f9102d7-c061-404d-871e-57b7bc2e8840.gif" width="100%" height="100%"></center>
 
 Comparing the districts with the 2011 enacted plan of the state, we can clearly see that some districts are “packed” in regards to both the republican and the democratic parties.The percentage of “wasted votes”, however, are less pronounce for the Republican party once compared with the “wasted votes” of the democratic party. As for the ensemble of plans, however, the change in “wasted votes” percentages is less drastic as we go from district to district, which shows that the ensemble of plans are also reflecting more competitive voting outcomes per district. 
 
