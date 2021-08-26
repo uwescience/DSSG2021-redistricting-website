@@ -37,5 +37,5 @@ Using this methodology, we will examine the interplay of population shifts and m
 ## Results
 
 
-<b>The completed Texas case study report will be published August 20th, 2021.</b> Interested parties can view the team's Texas work-in-progress on our [Github repository](https://github.com/uwescience/dssg2021-redistricting).
+<b>The completed Texas case study report will be published August 31st, 2021.</b> Interested parties can view the team's Texas work-in-progress on our [Github repository](https://github.com/uwescience/dssg2021-redistricting).
 
