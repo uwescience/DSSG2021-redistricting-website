@@ -37,5 +37,21 @@ Using this methodology, we will examine the interplay of population shifts and m
 ## Results
 
 
-<b>The completed Texas case study report will be published August 31st, 2021.</b> Interested parties can view the team's Texas work-in-progress on our [Github repository](https://github.com/uwescience/dssg2021-redistricting).
+Using GerryChain, we are able to examine how plans incorporating the Voting Rights Act requirements compare to a base collection of plans that only considers population balance, contiguity, and county line preservation goals. As you can see in the two graphs below, if we add an additional constraint when designing plans that preferentially selects plans with more minority effective districts, we would be able to design plans that have 2 to 3 more minority effective districts on average based on the 2010 population data.
 
+| ![vra_plan_comparison](https://user-images.githubusercontent.com/2799135/131414278-ffefe569-61c5-4ed5-bc3b-2563b4ea2a6f.png)| 
+|:--:| 
+| *Comparison of Proposed Plans Based on Criteria*|
+
+With this in mind, if we now think ahead to the upcoming cycle and consider options for where the two new districts might go, it’s important for us to remember that the placement of these districts is crucial to fair representation. 
+
+We can visualize the difference in the average number of districts per county when we compare potential plans from the previous redistricting cycle to proposed plans for the upcoming cycle. The green regions on the maps are areas where we’d expect to see a higher number of districts in 2021 than 2013, and the brown areas are counties where we’d expect to see a decrease in the number of districts. To take a deeper dive, we focused on the Dallas metro area and the Austin metro area, which are visualized below. If we only consider the population differences over the last decade, then on the top row, we can see green regions corresponding to areas that our analysis indicates could be likely candidates for adding a new district. However, if we build our 2021 ensemble of plans by prioritizing adding more minority effective districts, then the landscape of options changes. For example, when accounting only for population, Hays, Travis, and Bastrop counties are potential candidates for a new district. But if we want to maximize minority opportunity districts, then on the bottom row, we can see that Hays county is a much better option than Bastrop county. Similarly, it would be better to place a new district in select Dallas suburbs shaded in green in the second row if we want to better comply with the Voting Rights Act. 
+
+
+| ![new_districts](https://user-images.githubusercontent.com/2799135/131414541-6898b2c1-a0d3-4aa0-b176-76aa8d0df54a.png)| 
+|:--:| 
+
+
+We hope that advocacy groups in Texas can use these methods and learnings to ensure that the map drawing process in Texas is fair and complies with the Voting Rights Act to the fullest extent.
+
+Detailed code used for this analysis can be found on our [github repo](https://github.com/uwescience/dssg2021-redistricting), and the [User's Guide](https://uwescience.github.io/DSSG2021-redistricting-website/guide/) also provides a detailed walkthrough of the analysis decisions made at each step.
