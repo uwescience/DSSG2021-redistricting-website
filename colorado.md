@@ -37,7 +37,7 @@ After running the model, we conducted an outlier analysis using a histogram to e
 
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/co_recom_comps.png" width="75%" height="75%"></center>
 
-However, we also found that our neutral ensemble did not generate proposed plans that met the number of county splits in the 2012 enacted plan. The Colorado 2012 human generated map only split 7 counties, when our ensemble mean is 15 county splits. This is even with a county-aware ReCom proposal and an acceptance function with a county split condition. This illustrates the complexity that emerges when using ensemble analysis and computational tools to translate legal rules for redistricting. While the 2012 enacted plan was able to minimize county splits to a degree that our ensemble did not, the same plan did not maximize politically competitive districts to the degree our ensemble did. 
+However, our neutral ensemble did not generate proposed plans that met the number of county splits in the 2012 enacted plan. Even though we applied a county-aware ReCom proposal and an acceptance function with a county split condition, our ensemble mean is 15 county splits while the  2012 human generated map only split 7 counties. This illustrates the complexity that emerges when using ensemble analysis and computational tools to translate legal rules for redistricting. While the 2012 enacted plan was able to minimize county splits to a degree that our ensemble did not, the same plan did not maximize politically competitive districts to the degree our ensemble did. 
 
 <center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/co_recom_splits.png" width="75%" height="75%"></center>
 
