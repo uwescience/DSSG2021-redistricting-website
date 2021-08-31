@@ -35,11 +35,13 @@ In the past 5 US House elections in Colorado using the 2012 map, only 1 of the 7
 
 After running the model, we conducted an outlier analysis using a histogram to examine how the 2012 Congressional plan compares to the ensemble distribution. Results show that our ensemble mean is 3-4 districts (specifically, 3.75), which is 2-3 districts more than the 2012 human generated plan.
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/co_recom_comps.png"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/co_recom_comps.png" width="75%" height="75%"></center>
+
+
 
 However, we also found that our neutral ensemble did not generate proposed plans that met the number of county splits in the 2012 enacted plan. The Colorado 2012 human generated map only split 7 counties, when our ensemble mean is 15 county splits. This is even with a county-aware ReCom proposal and an acceptance function with a county split condition. This illustrates the complexity that emerges when using ensemble analysis and computational tools to translate legal rules for redistricting. While the 2012 enacted plan was able to minimize county splits to a degree that our ensemble did not, the same plan did not maximize politically competitive districts to the degree our ensemble did. 
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/co_recom_splits.png"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/assets/img/co_recom_splits.png" width="75%" height="75%"></center>
 
 ### Conclusion
 
