@@ -23,4 +23,4 @@ This summer, we used modern computational methods and statistical techniques to 
 
 The main objectives of this project were to gain insights into GerryChain's potential by applying it to unique redistricting problems in three states, Georgia, Colorado, and Texas, and use this experience to develop a comprehensive user's guide to increase access to the GerryChain toolset. As the 2021 redistricting cycle is currently underway, this project has the potential to empower community members, activists, and non-partisan redistricting committees to use GerryChain to participate in their state's redistricting process more effectively.
 
-We presented the findings of this summer project on August 18, 2021. ([Presentation Slides](https://github.com/uwescience/DSSG2021-redistricting-website/blob/main/assets/Redistricting%20Team%20-%20Final%20Presentation%20PUBLIC.pdf))
+We presented the findings of this summer project at the eScience Institute on August 18, 2021. ([Video](https://youtu.be/Cnn3sPV-7MI?t=2706))([Slides](https://github.com/uwescience/DSSG2021-redistricting-website/blob/main/assets/Redistricting%20Team%20-%20Final%20Presentation%20PUBLIC.pdf))
